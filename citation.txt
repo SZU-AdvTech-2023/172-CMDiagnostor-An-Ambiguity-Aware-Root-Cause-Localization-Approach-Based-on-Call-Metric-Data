@@ -1,0 +1,7 @@
+@inproceedings{REPO172,
+    author = "Yu, Qingyang and Pei, Changhua and Hao, Bowen and Li, Mingjie and Li, Zeyan and Zhang, Shenglin and Lu, Xianglin and Wang, Rui and Li, Jiaqi and Wu, Zhenyu and others",
+    booktitle = "Proceedings of the ACM Web Conference 2023",
+    pages = "2937--2947",
+    title = "{CMDiagnostor: An Ambiguity-Aware Root Cause Localization Approach Based on Call Metric Data}",
+    year = "2023"
+}
