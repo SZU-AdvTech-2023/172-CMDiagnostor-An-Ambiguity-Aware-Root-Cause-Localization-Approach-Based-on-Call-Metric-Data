@@ -1,0 +1,14 @@
+//历史告警数据
+//示例
+[
+  {
+    "_id": {
+      "$oid": "1234"
+    },
+    "id": "1234",
+    "serial_id": "1234",
+    "event": "vr_ha",
+    "severity": "p2",
+    "last_receive_time": 1693706214
+  }
+]
